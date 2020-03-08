@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EspressoDemo</string>
+
+
+    <string-array name="spinner">
+        <item>hello</item>
+        <item>hi</item>
+        <item>whats up</item>
+    </string-array>
+</resources>
